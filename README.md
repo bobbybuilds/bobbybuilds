@@ -2,14 +2,29 @@
 
 I build systems, projects, and ideas in public.
 
-## What I’m doing
+My background is in project management, operations, infrastructure, and hands-on technical work. This GitHub is where I organize what I’m building and document real-world execution over time.
 
-- Learning GitHub step by step
-- Building real projects over time
-- Creating a system I can grow into
+## What I’m building
 
-## Projects (in progress)
+- Technical and systems-based projects  
+- Workflow and process-driven solutions  
+- Media and digital infrastructure  
+- Long-term ideas, including Briteleaf Media  
 
-This is where my projects will live as I build them out.
+## Approach
 
-Right now I’m focused on learning GitHub, structuring my work, and building a solid foundation before scaling.
+I focus on practical execution over theory.
+
+- Clarity over complexity  
+- Systems over one-off solutions  
+- Build first, refine as I go  
+
+## Projects
+
+This is an active workspace. Projects are added and developed as they evolve.
+
+## Current focus
+
+- Building structured, repeatable systems  
+- Documenting real projects and workflows  
+- Expanding technical infrastructure and capabilities  
